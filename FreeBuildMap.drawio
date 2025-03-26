@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="7brxcG7zhEMN0gF7fkz7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPU05DOvcKoE3P8HrRso-0" target="CPU05DOvcKoE3P8HrRso-11">
+        <mxCell id="7brxcG7zhEMN0gF7fkz7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CPU05DOvcKoE3P8HrRso-0" target="CPU05DOvcKoE3P8HrRso-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-0" value="Freebuilding Map" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -26,49 +26,49 @@
           <mxGeometry x="120" y="330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-19" value="Timers&lt;div&gt;/ Free Play&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="390" width="70" height="60" as="geometry" />
+          <mxGeometry x="480" y="315" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-20" value="Movement Speed" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="320" width="70" height="60" as="geometry" />
+          <mxGeometry x="480" y="245" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-21" value="Delta Time Change" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="460" width="60" height="60" as="geometry" />
+          <mxGeometry x="480" y="385" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-22" value="Crosshair Modifications?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="250" width="83" height="60" as="geometry" />
+          <mxGeometry x="480" y="525" width="83" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-30" value="Bots?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="530" width="60" height="60" as="geometry" />
+          <mxGeometry x="480" y="455" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-31" value="Statistics?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-32" value="Time Played" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="255" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-34" value="Times Reached Height" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="325" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-35" value="Builds Reset" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="630" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="395" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-37" value="Reset Builds Button" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="294" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="250" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-38" value="Max Height / Falling off" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="294" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="320" width="114" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-41" value="Main Area Features" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-42" value="Changing booth" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-60" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="250" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-43" value="Portal To Other Islands" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-60" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CPU05DOvcKoE3P8HrRso-44" value="Creator Code" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-60" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-50" y="390" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
